@@ -211,6 +211,8 @@ int main() {
 
 
 ## OUTPUT
+<img width="1039" height="647" alt="image" src="https://github.com/user-attachments/assets/ebc98181-d6c3-48e2-a704-0a5a30c96c6b" />
+
 
 # RESULT:
 The program is executed successfully.
